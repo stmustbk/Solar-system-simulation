@@ -14,4 +14,4 @@ press PgDOWN to make simulation slower
 
 Do not forget to install pygame and tkinter
 
-*pip install pygame,tkinter*
+*pip install pygame tkinter*
